@@ -1,7 +1,7 @@
 # FSD 1 2025B15410263
  This is my first git repository.
 <br>
-Author -Anushka Kandhway <br>
+Author -<b>Anushka Kandhway</b> <br>
 Course -<b>CSE(DS)</b>
 Section -1<br>
 <hr>
