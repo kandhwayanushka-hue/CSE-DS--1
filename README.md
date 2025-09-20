@@ -7,6 +7,6 @@ Section -1<br>
 <hr>
 index.html: file contains the assignment of writing basic html code <br>
 <hr>
-webpage.html: file contains the homework assignment of creating a webpage using certain tags like <p>,</p>,<b>,</b>,<hr>,<br>,<h1>,</h1>
+webpage.html: file contains the homework assignment of creating a webpage using certain tags 
 <hr>
 
