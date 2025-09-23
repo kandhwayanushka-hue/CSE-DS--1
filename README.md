@@ -11,11 +11,9 @@ Section-<b>1</b>
 <hr>
 <b>Assignment 3</b>:-<u><b>GlobalWarming.html</u></b>:file contains the homework assignment of creating a webpage on title Global Warming using hyperlinks
 <hr> 
-FsdLecture3.html:-file contains the code taught in the lecture and using different kinds of tags and hyperlinks and anchor tags
+<b>FsdLecture3.html</b>:-file contains the code taught in the lecture and using different kinds of tags and hyperlinks and anchor tags
+<hr>
+<b>para2.html</b>:-file contains the external linking webpages of all assignments given 
 <hr>
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 7af929dce23ea3730070be082ce17778c50d16f4
