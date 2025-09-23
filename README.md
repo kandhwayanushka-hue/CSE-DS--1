@@ -15,4 +15,7 @@ FsdLecture3.html:-file contains the code taught in the lecture and using differe
 <hr>
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7af929dce23ea3730070be082ce17778c50d16f4
