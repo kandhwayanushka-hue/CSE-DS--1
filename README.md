@@ -15,5 +15,11 @@ Section-<b>1</b>
 <hr>
 <b>para2.html</b>:-file contains the external linking webpages of all assignments given 
 <hr>
+<b>Practical 1</b>:-<u><b>coursecurriculum.html</b></u>:file contains the assignment 1 for creating a webpage for course curriculum using heading,paragraphs,bold,italic,underline,special characters, ordered list, unordered list,description list , nested list and mixed list
+<hr>
+<b>fsd4.html</b>:-file contains the code taught in the lecture and using different types of multimedia tags like audio, video ,iframe 
+<hr>
+<b>list.html</b>:-file contains the code taught in class for using lists like ordered list, unordered list,description list , nested list and mixed list
+<hr>
 
 
