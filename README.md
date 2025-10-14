@@ -5,6 +5,8 @@ Author -<b>Anushka Kandhway</b> <br>
 Course -<b>CSE(DS)</b><br>
 Section-<b>1</b>
 <hr>
+<b>Practical 1</b>:-<u><b>coursecurriculum.html</b></u>:file contains the assignment 1 for creating a webpage for course curriculum using heading,paragraphs,bold,italic,underline,special characters, ordered list, unordered list,description list , nested list and mixed list
+<hr>
 <b>Assignment 1</b>:-<u><b>index.html</u></b>: file contains the assignment of writing basic html code <br>
 <hr>
 <b>Assignment 2</b>:-<u><b>webpage.html</u></b>: file contains the homework assignment of creating a webpage using semantic tags like hr,h1,p,and non semantic tags like b and br <br>
@@ -15,11 +17,13 @@ Section-<b>1</b>
 <hr>
 <b>para2.html</b>:-file contains the external linking webpages of all assignments given 
 <hr>
-<b>Practical 1</b>:-<u><b>coursecurriculum.html</b></u>:file contains the assignment 1 for creating a webpage for course curriculum using heading,paragraphs,bold,italic,underline,special characters, ordered list, unordered list,description list , nested list and mixed list
-<hr>
 <b>fsd4.html</b>:-file contains the code taught in the lecture and using different types of multimedia tags like audio, video ,iframe 
 <hr>
 <b>list.html</b>:-file contains the code taught in class for using lists like ordered list, unordered list,description list , nested list and mixed list
+<hr>
+<b>tables.html</b>:-file contains the code learnt in class for using different types of table tags 
+<hr>
+<b>iframe.html</b>:-file contains the code for using iframe tags 
 <hr>
 
 
