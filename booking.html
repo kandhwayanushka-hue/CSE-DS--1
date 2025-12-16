@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=" UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>form 
+        </title>
+    </head>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="date"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"],
+        input[type="reset"] {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        input[type="reset"] {
+            background-color: #f40d28;
+        }
+    </style>
+    <body>
+        <form><centre align="center">
+            <h1><centre>Hotel Room Booking Form</centre></h1>
+            <p><label for="FULL NAME">Full Name:</label>
+                <input type="text" id="FULL NAME" name="FULL NAME"></p>
+                <p><label for="EMAIL">Email:</label>
+                <input type="email" id="EMAIL" name="EMAIL"></p>
+                <p><label for="PHONE NUMBER">Phone Number:</label>
+                <input type="tel" id="PHONE NUMBER" name="PHONE NUMBER"></p>
+                <p><label for="CHECK-IN DATE">Check-in Date:</label>   
+                <input type="date" id="CHECK-IN DATE" name="CHECK-IN DATE"></p>
+                <p><label for="CHECK-OUT DATE">Check-out Date:</label>
+                <input type="date" id="CHECK-OUT DATE" name="CHECK-OUT DATE"></p>
+                <p><label for="ROOM TYPE">Room Type:</label>
+                <select id="ROOM TYPE" name="ROOM TYPE">
+                    <option value="single">Single</option>
+                    <option value="double">Double</option>
+                    <option value="suite">Suite</option>
+                </select></p>
+                <p><label for="NUMBER OF GUESTS">Number of Guests:</label>
+                <input type="number" id="NUMBER OF GUESTS" name="NUMBER OF GUESTS" min="1" max="10"></p>
+                <p><label for="SPECIAL REQUESTS">Special Requests:</label><br>
+                <textarea id="SPECIAL REQUESTS" name="SPECIAL REQUESTS" rows="4" cols="30"></textarea></p>
+                <p><input type="submit" value="Book Now">
+                <input type="reset" value="Reset Form"></p>
+        </centre>
+        </form>
+    </body>
+</html>
