@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stay</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: rgb(93, 130, 167);
+        }
+        header {
+            display: block;
+            text-align: center;
+            width: 100%;
+            background-color: rgb(227, 239, 103);
+            padding: 15px;
+            color: rgb(135, 69, 135);
+            font-size: 20px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+        .product-box {
+            background: rgb(103, 162, 107);
+            padding: 20px;
+            border: 2px solid #5d6c38;
+            border-radius: 10px;
+            text-align: center;
+            border-radius: 15px;
+        }
+        img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        h2 {
+            margin-top: 10px;
+        }
+
+        .price {
+            color: rgb(184, 198, 80);
+            font-size: 20px;
+        }
+
+        .description {
+            margin-top: 10px;
+            color: #555;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: rgb(70, 47, 148);
+            color: white;
+            padding: 10px 20px;
+            margin: 10px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        @media (max-width: 1024px) {
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    CHOOSE THE BEST STAY FOR YOU!!!!
+</header>
+
+<div class="grid">
+    <div class="product-box">
+        <img src="https://digital.ihg.com/is/image/ihg/intercontinental-bucharest-8005817124-2x1">
+       <h2>Double Room-palace bucharest</h2>
+        <p class="price">₹5000/night</p>
+        <p class="description">Your perfect stay for two.</p>
+        <a href="https://play-lh.googleusercontent.com/sqCIkQM-QqMlue5-DWpCoWUQjHwbQ8F3emvxNo9JL7ea3eo_3ZzDsSrGu6RQvO3dhVU" class="btn">Add to Wishlist</a>
+        <a href="book.html" class="btn">Book Now</a>
+    </div>
+    <div class="product-box">
+        <img src="https://th.bing.com/th/id/OIP.tAGHZKL1-3KgFTepSe6bOAHaD5?w=328&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1">
+        <h2>Single Room-Bernard Palace</h2>
+        <p class="price">₹3000/night</p>
+        <p class="description">Cozy Comfort, Just for You.</p>
+        <a href="https://play-lh.googleusercontent.com/sqCIkQM-QqMlue5-DWpCoWUQjHwbQ8F3emvxNo9JL7ea3eo_3ZzDsSrGu6RQvO3dhVU" class="btn">Add to Wishlist</a>
+        <a href="book.html" class="btn">Book Now</a>
+    </div>
+    <div class="product-box">
+        <img src="https://th.bing.com/th/id/OIP.2RPwjSn6hr5Q5aCaoGZb6gHaEK?w=332&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1">
+        <h2>Triple Rooms-Hotel Taj</h2>
+        <p class="price">₹8500/night</p>
+        <p class="description">Comfortably Accommodating Three: Your Space to Unwind.</p>
+        <a href="https://play-lh.googleusercontent.com/sqCIkQM-QqMlue5-DWpCoWUQjHwbQ8F3emvxNo9JL7ea3eo_3ZzDsSrGu6RQvO3dhVU" class="btn">Add to Wishlist</a>
+        <a href="book.html" class="btn">Book Now</a>
+    </div>
+</div>
+
+
+</body>
+</html>
